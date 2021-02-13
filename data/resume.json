@@ -2,20 +2,20 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
+        "name": "魏金山",
         "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
-        "profession": "计算机科学与技术",
+        "school": "齐齐哈尔工程学院",
+        "profession": "软件技术",
         "sex": "男",
-        "education" : "本科",
-        "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "education" : "专科",
+        "workage": "2020届毕业",
+        "phone": "19969795086",
+        "email": "2414373972@qq.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/yunshan2414373972",
             "icon": ""
         },
         {
@@ -35,26 +35,23 @@
         },
         {
             "type": "home",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/yunshan2414373972",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "2017全国职业技能大赛智能家居安装与维护赛项（上位机开发）三等奖"
         },
         {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "2018京津翼物联网设备安装赛项三等奖"
         },
         {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "黑龙江省职业技能大赛智能家居安装与维护2.0（Java 嵌入式开发）一等奖"
         },
         {
-            "name": "201X百度校园助手大赛优秀开发奖"
+            "name": "齐齐哈尔大学生创业孵化园（智能网络工程项目）TOP5"
         },
-        {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
-        }
     ],
     "socialExperiences": [
         {
@@ -118,7 +115,7 @@
         },
         {
             "name": "更多",
-            "name_link": "https://github.com/Jayin",
+            "name_link": "https://github.com/yunshan2414373972",
             "title": "",
             "icon": "",
             "description": "",
